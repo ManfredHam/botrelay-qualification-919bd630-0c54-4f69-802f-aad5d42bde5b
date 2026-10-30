@@ -1,0 +1,73 @@
+{
+  "schema": "botrelay.qualification.handover.v1",
+  "attemptId": "919bd630-0c54-4f69-802f-aad5d42bde5b",
+  "connectionId": "9a14f7f1-edfd-4615-91b3-84f3ffaaae1a",
+  "nonce": "a58b54ec45dcad033abe6081037a19d9d8fc6e92472ff0422d8726948bc60fa6",
+  "sourceCommit": "e294954ee969af00497ba151c50a5cd6b2c6c5f3",
+  "runId": "41024811484",
+  "passed": true,
+  "metrics": {
+    "mobile": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100
+    },
+    "desktop": {
+      "performance": 99,
+      "accessibility": 100,
+      "best-practices": 100
+    }
+  },
+  "artifacts": [
+    {
+      "path": "index.html",
+      "bytes": 1562,
+      "sha256": "bb45ce7a0e40bbae86b3f95213b789ab941cfc3c124d02297acce4d4a9098773"
+    },
+    {
+      "path": "impressum.html",
+      "bytes": 993,
+      "sha256": "652c7700144996fa80aa2a07dfb39b5f4ee6e79fefb0219cb337a0032e75579d"
+    },
+    {
+      "path": "styles.css",
+      "bytes": 1192,
+      "sha256": "6390285a78d07faadc6043ac19b0f86ee8c8b9880edd33df74f8f6bf2650ff9a"
+    },
+    {
+      "path": "assets/relay-qr.png",
+      "bytes": 688,
+      "sha256": "acdc131c9357070a1b157a5342c14be0106a1759e53ac48c6651a8cb59f0156e"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2768,
+      "sha256": "d522babd7781ba2871e1c09856c543e0d407b805b7ad756b3c3f96c6de241c68"
+    },
+    {
+      "path": "relay-proof.json",
+      "bytes": 240,
+      "sha256": "c5a77ba5b4ee8a8cc055580ad6dc571ba3e98d2155e2c1bd1f5da2aa36767412"
+    },
+    {
+      "path": ".relay/evidence/mobile.png",
+      "bytes": 81086,
+      "sha256": "1c8f3db28f9c895a71682754fcb57771dd2142ecd4df7fb9788ecfeaeb01dd0c"
+    },
+    {
+      "path": ".relay/evidence/desktop.png",
+      "bytes": 93050,
+      "sha256": "08b9377bb00d5c254a340bc065bc8e8a9643f09cbe8900d90e70bbebc7b6c424"
+    },
+    {
+      "path": ".relay/evidence/lighthouse-mobile.json",
+      "bytes": 514663,
+      "sha256": "e796b2728552afffb85d3ea33c8b3696ecae150eb451ddbbd3c12510b83c0762"
+    },
+    {
+      "path": ".relay/evidence/lighthouse-desktop.json",
+      "bytes": 472424,
+      "sha256": "24bcd23c3909a2f813a79e6ccc11e5caaa27a021e39f6289082b0815b2824c7b"
+    }
+  ]
+}
