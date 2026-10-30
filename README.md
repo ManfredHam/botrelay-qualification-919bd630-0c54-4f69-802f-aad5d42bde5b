@@ -40,3 +40,9 @@ tag, ancestry and successful fixed-workflow run before passing stage 3.
 Missing GitHub/file/image/browser tools are blockers to report, not a reason to
 claim success. This technical demo does not verify account identity, private
 repository permissions, unattended availability or production deployment rights.
+
+## Qualification attempt
+
+Synthetic demo attempt `919bd630-0c54-4f69-802f-aad5d42bde5b`.
+
+Relay nonce: `a58b54ec45dcad033abe6081037a19d9d8fc6e92472ff0422d8726948bc60fa6`
